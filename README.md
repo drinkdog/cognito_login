@@ -16,9 +16,15 @@ Amazon Cognito를 통한 사용자 인증
  - Cognito 앱 클라이언트
 
 3. 프로젝트 구조
+
 ├── app.py              # 메인 애플리케이션 파일
+
 ├── config.yaml         # 설정 파일
+
 ├── requirements.txt    # 의존성 목록
+
 ├── templates/          # HTML 템플릿
+
 │   └── index.html     # 메인 페이지 템플릿
+
 └── README.md          # 프로젝트 문서
