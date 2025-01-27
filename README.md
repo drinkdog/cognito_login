@@ -21,8 +21,6 @@ Amazon Cognito를 통한 사용자 인증
 
 ├── config.yaml         # 설정 파일
 
-├── requirements.txt    # 의존성 목록
-
 ├── templates/          # HTML 템플릿
 
 │   └── index.html     # 메인 페이지 템플릿
