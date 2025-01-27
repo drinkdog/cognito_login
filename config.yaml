@@ -1,0 +1,10 @@
+# config.yaml
+flask:
+  secret_key: ""
+
+cognito:
+  authority: ""
+  client_id: ""
+  client_secret: ""
+  metadata_url: ""
+  region: ""
