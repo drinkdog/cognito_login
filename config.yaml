@@ -2,6 +2,7 @@
 flask:
   secret_key: ""
 
+# Amazon Cognito > User pools > User pool > App clients > App client > Quick Setup Guide & App client information 참고
 cognito:
   authority: ""
   client_id: ""
